@@ -119,9 +119,9 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+          <div className={styles["sidebar-title"]}>ChatMao</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            CHAT猫-人工智能.
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
